@@ -5,6 +5,7 @@ bots/minecraft/mc_modules/util/sus.js
 start.json
 index.js
 bots/config/servers
+bots/config/servers/*
 bots/discord/commands/ban.js
 bots/discord/commands/cloop.js
 bots/discord/commands/crash.js
